@@ -13,6 +13,7 @@ function App() {
         Welcome to Ocean Palate
       </a>
       <p>We will start the app work now.</p>
+      <p>This is a new push</p>
     </div>
   );
 }
