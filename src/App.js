@@ -13,7 +13,8 @@ function App() {
         Welcome to Ocean Palate.
       </a>
       <p>We will start the app work now.</p>
-      <p>This will become an old push by trueghost</p>
+      <p>trueghost gay</p>
+      <p>This will become an old push by trueghost </p>
     </div>
   );
 }
