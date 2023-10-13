@@ -1,3 +1,3 @@
 # Ocean Palate
 
-The canadian tavern
+A canadian tavern
