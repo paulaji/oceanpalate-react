@@ -10,10 +10,10 @@ function App() {
         target='_blank'
         rel='noopener noreferrer'
       >
-        Welcome to Ocean Palate
+        Welcome to Ocean Palate.
       </a>
       <p>We will start the app work now.</p>
-      <p>This is a new push</p>
+      <p>This will become an old push by trueghost</p>
     </div>
   );
 }
